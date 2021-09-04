@@ -1,6 +1,13 @@
-# Learning atomic design
+# Learning atomic design 🔥
 
-**technologies**
+**Technologies**
 - React
 - Styled-Components
 - Typescript
+
+**Architeture**
+- Atomic Design
+
+**Objective**
+Learning atomic design
+
